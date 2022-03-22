@@ -1,5 +1,16 @@
-# fingerprint-scanner
-Flutter Source code for Android and iOS devices to allow local authentication via fingerprint, touch ID, face ID, passcode, pin, or pattern.
+# fingerprint
 
-![GIF-220322_053349](https://user-images.githubusercontent.com/56830558/159385036-8052ba56-36b8-41c4-b847-a8877e9dab9b.gif)
+A new Flutter project.
 
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
